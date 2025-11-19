@@ -1,4 +1,4 @@
 Name: TOLUWANI JOSEPH ADESINA
 Matric Number: 22CG031810
-Hosted URL: https://your-app.streamlit.app
-GitHub Repository: https://github.com/your-username/ZOF_Project
+Hosted URL: https://zofproject-cdcbbkaysduius54pbviay.streamlit.app/
+GitHub Repository: https://github.com/TJAdesina/ZOF_Project
